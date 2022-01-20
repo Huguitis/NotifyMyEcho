@@ -1,0 +1,17 @@
+{
+  "DiscordBotToken": "OTMzMTE1NzQ5MjQzOTc3Nzc5.Yec1ww.MDvXPICwiapWrROEYa6klrTAVns",
+  "DiscordBotPrefix": "alexa ",
+  "NotifyMeToken": "amzn1.ask.account.AGEY3QZN2ONDBOLUZHL4GXENSBNE3VBO6PPIFPQ6UVLQAQQ7DOA6RGJBJCDXQH5FGOTI3DJ4YQTSKBY4E4VXNMIBQUASQ57HLWWDRRYVONDZKZ33KRXOUCQTOK5SLQA5JYED7K5J2TASEHCRMYYUOO4OUICDM7WL7OBO2TDH5O4CGXEOURUCZTJGISMNKWADERLJNC7OU2UIYEA",
+  "OwnerID": "759796588842450944",
+  "LogsChannelID": "929011461467013180",
+  "MainServerID": "926816871989252157",
+  "MainServerInvite": "https://discord.gg/et2BERsYSM",
+  "BlacklistedWords": "corrida, porn, gay, homo, puta, puto, cabron, cabrón, pene, culo, polla, follo, follar, folla, sex, coño",
+
+  "StatusText": "Alexa | use 'alexa send'",
+  "StatusType": "WATCHING",
+
+  "SuccessEmoji": "<a:tick:858714283236130818>",
+  "ErrorEmoji": "<a:cruz:858714348242993192>",
+  "LoadingEmoji": "<a:cargando2:858715584691044402>"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "NotifyMyAlexa-DiscordBot",
+  "version": "0.0.1",
+  "description": "Let users to send messages to your Amazon Alexa!",
+  "main": "main.js",
+  "dependencies": {
+    "aoi.js": "^5.0.8",
+    "axios": "^0.25.0",
+    "https": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Huguitis",
+  "license": "MIT"
+}
