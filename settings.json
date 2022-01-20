@@ -1,17 +1,20 @@
+**REMOVE ALL THIS COMMENTS!**
+
 {
-  "DiscordBotToken": "OTMzMTE1NzQ5MjQzOTc3Nzc5.Yec1ww.MDvXPICwiapWrROEYa6klrTAVns",
-  "DiscordBotPrefix": "alexa ",
-  "NotifyMeToken": "amzn1.ask.account.AGEY3QZN2ONDBOLUZHL4GXENSBNE3VBO6PPIFPQ6UVLQAQQ7DOA6RGJBJCDXQH5FGOTI3DJ4YQTSKBY4E4VXNMIBQUASQ57HLWWDRRYVONDZKZ33KRXOUCQTOK5SLQA5JYED7K5J2TASEHCRMYYUOO4OUICDM7WL7OBO2TDH5O4CGXEOURUCZTJGISMNKWADERLJNC7OU2UIYEA",
-  "OwnerID": "759796588842450944",
-  "LogsChannelID": "929011461467013180",
-  "MainServerID": "926816871989252157",
-  "MainServerInvite": "https://discord.gg/et2BERsYSM",
-  "BlacklistedWords": "corrida, porn, gay, homo, puta, puto, cabron, cabrón, pene, culo, polla, follo, follar, folla, sex, coño",
+  "DiscordBotToken": "", // Ur bot's token, get from https://discord.com/developers
+  "DiscordBotPrefix": "", // Ur bot's prefix, ex: !
+  "NotifyMeToken": "", // Ur "Notify Me" token, you can get one with below tutorial.
+  "OwnerID": "", // Ur id for the admin commands, ex: 83976374893
+  "LogsChannelID": "", // Ur channel id for the logs channel, ex: 92467298442
+  "MainServerID": "", // Ur server id for the send command, ex: 392374264276
+  "MainServerInvite": "https://discord.gg/et2BERsYSM", 
+  "BlacklistedWords": "word1, word2, word3...", // Add words that users cannot send to your alexa, separate them with ", "
 
-  "StatusText": "Alexa | use 'alexa send'",
-  "StatusType": "WATCHING",
+  "StatusText": "you", // Your bot's status type
+  "StatusType": "WATCHING", // Your bot's status type
 
-  "SuccessEmoji": "<a:tick:858714283236130818>",
-  "ErrorEmoji": "<a:cruz:858714348242993192>",
-  "LoadingEmoji": "<a:cargando2:858715584691044402>"
+  // The emojis that the bot will use
+  "SuccessEmoji": "...", // <a:tick:858714283236130818> or :white_check_mark: are valid emojis.
+  "ErrorEmoji": "...",
+  "LoadingEmoji": "..."
 }
