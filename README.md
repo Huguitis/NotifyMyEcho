@@ -36,3 +36,6 @@
   "LoadingEmoji": "..."
 }
 ```
+5. Run the bot with the `npm start` command
+
+# How to get the "Notify Me" Token
