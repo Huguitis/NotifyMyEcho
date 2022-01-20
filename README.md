@@ -39,6 +39,8 @@
 5. Run the bot with the `npm start` command
 
 # How to get the "Notify Me" Token
+(Notify Me Skill is only available in the regions that allow English-speaking skills, but you can bypass that changing your amazon account region)
+
 - To get started, just enable the skill from the Alexa app or from the [Amazon website](https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS), giving it permission to send notifications to your Alexa and linking it to your Amazon account so they can send a unique access code to the email address associated with that account. Next, just say, "Alexa, open Notify Me" and the skill will introduce itself and send your access code via email.
 
 - If it seems to be taking too long to receive the access code, please check your SPAM filter. The email will come from from notifyme@notifymyecho.com. Remember: launching the skill ("Alexa, open Notify Me" or "Alexa, launch the Notify Me skill") is what triggers the email with the access code.
