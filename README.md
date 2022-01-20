@@ -15,7 +15,7 @@
 1. Download [NodeJS v16](https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi).
 2. Download and extract the bot files.
 3. Install all the required packages with the `npm i` command.
-4. Config your bot in the **settings.json** file:
+4. Config your bot in the **settings.json** file: (REMOVE ALL THE COMMENTS)
 ```json
 {
   "DiscordBotToken": "", // Ur bot's token, get from https://discord.com/developers
