@@ -16,7 +16,7 @@
 2. Download and extract the bot files.
 3. Install all the required packages with the `npm i` command.
 4. Config your bot in the **settings.json** file:
-```javascript
+```json
 {
   "DiscordBotToken": "", // Ur bot's token, get from https://discord.com/developers
   "DiscordBotPrefix": "", // Ur bot's prefix, ex: !
