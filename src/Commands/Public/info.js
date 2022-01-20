@@ -20,6 +20,7 @@ $description[1;
 - \`$getVar[DiscordBotPrefix]activate\` Allow users to send messages.
 - \`$getVar[DiscordBotPrefix]desactivate\` Block users to send messages.
 
+**• [GitHub Repository](https://github.com/Huguitis/NotifyMyAlexa-DiscordBot)**
 **• [Bot Invite]($getBotInvite[admin])**
 **• [Support Server](https://discord.gg/et2BERsYSM)**
 ]
