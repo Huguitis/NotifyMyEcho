@@ -1,4 +1,4 @@
-# NotifyMyAlexa-DiscordBot
+# NotifY My Alexa - DiscordBot
 **Users on your discord server will be able to send you via discord messages for your Alexa to reproduce them!**
 - Support: https://discord.gg/et2BERsYSM
 - Contact: ! Huguitis#4927
